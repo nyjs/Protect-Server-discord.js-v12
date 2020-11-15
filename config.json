@@ -1,0 +1,15 @@
+{
+   "owners": [
+      "ID",
+      "ID",
+      "ID"
+   ],
+   "database": {
+      "db": "test",
+      "pass": "",
+      "host": "localhost",
+      "user": "root"
+   },
+   "prefix": "+",
+   "token": "token"
+}
